@@ -70,4 +70,14 @@ This analysis helps identify at-risk customers, high-value inactive segments, an
 🔖 Notes
 This project is created for analytical and educational purposes.
 All brand names and datasets are used strictly for demonstration purposes.
-<img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/239fc92d-9200-4585-ae09-1e565ac2ed3d" />
+<img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/239fc92d-9200-4585-ae09-1e565ac2ed3d" /> 
+<img width="1311" height="730" alt="image" src="https://github.com/user-attachments/assets/d8423b83-7db6-4125-bea9-404923ba21c8" /> 
+<img width="1315" height="744" alt="image" src="https://github.com/user-attachments/assets/135c8221-1992-44c7-819f-15be7fdfbdb3" /> 
+<img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/69aa4409-da14-4ba8-aab9-106e468aab43" /> 
+<img width="1318" height="745" alt="image" src="https://github.com/user-attachments/assets/ef60fa9a-1b81-495c-b6af-cad591b762ad" /> 
+<img width="1310" height="717" alt="image" src="https://github.com/user-attachments/assets/f8c65e5a-aead-4b98-a27b-5850b4ddb40d" />
+
+
+
+
+
